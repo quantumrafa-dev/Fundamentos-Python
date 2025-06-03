@@ -1,3 +1,12 @@
+#Clase: Fundamentos de Programación
+#Tema: 7. Introducción al manejo de datos tabulares con NumPy
+#Ejercicio: Tarea 10
+#Descripción: Casos de Estudio, Consumo Energetico
+
+#Autor: Rafael Alfonso Ruíz García 
+#Fecha: 2025-06-03
+#Estado: [Terminado]
+
 import numpy as np
 
 consumo = np.array([
